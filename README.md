@@ -46,4 +46,10 @@ The dataset contains employee salary information with the following columns:
 | YearsExperience   | Number of years of work experience   |
 | Salary            | Annual salary (target variable)      |
 
+### Dataset Characteristics:
+- Small and clean dataset
+- No missing values
+- Ideal for regression analysis
+- Suitable for visualization and interpretation
+
 <img width="1440" height="811" alt="Screenshot 2025-07-23 at 6 07 51 PM" src="https://github.com/user-attachments/assets/02cb451a-d781-43b5-be2f-8936dca2c882" />
