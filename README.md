@@ -79,29 +79,42 @@ The dataset contains employee salary information with the following columns:
 
 - Suitable for visualization and interpretation
 
+
 ## 🔍 Exploratory Data Analysis (EDA)
 
 During EDA, the following steps were performed:
 
 - Checked dataset shape and data types
+
 - Verified missing values
+
 - Visualized salary vs experience using scatter plots
+
 - Observed a strong positive linear relationship
 
 📈 **Insight:**  
 
 As years of experience increase, salary increases linearly — making Linear Regression a suitable model.
 
+
 ## 🛠️ Technologies & Tools Used
 
 - **Programming Language:** Python
+
 - **Libraries:**
+
   - `pandas` – Data manipulation
+
   - `numpy` – Numerical computations
+
   - `matplotlib` – Data visualization
+
   - `seaborn` – Statistical plots
+
   - `scikit-learn` – ML model implementation
+
 - **Environment:** Jupyter Notebook
+
 
 ## ⚙️ Model Development Steps
 
