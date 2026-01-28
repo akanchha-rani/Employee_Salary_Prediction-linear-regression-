@@ -60,5 +60,19 @@ During EDA, the following steps were performed:
 - Verified missing values
 - Visualized salary vs experience using scatter plots
 - Observed a strong positive linear relationship
+
+📈 **Insight:**  
+As years of experience increase, salary increases linearly — making Linear Regression a suitable model.
+
+## 🛠️ Technologies & Tools Used
+
+- **Programming Language:** Python
+- **Libraries:**
+  - `pandas` – Data manipulation
+  - `numpy` – Numerical computations
+  - `matplotlib` – Data visualization
+  - `seaborn` – Statistical plots
+  - `scikit-learn` – ML model implementation
+- **Environment:** Jupyter Notebook / VS Code
   
 <img width="1440" height="811" alt="Screenshot 2025-07-23 at 6 07 51 PM" src="https://github.com/user-attachments/assets/02cb451a-d781-43b5-be2f-8936dca2c882" />
