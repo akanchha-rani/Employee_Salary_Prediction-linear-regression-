@@ -11,10 +11,15 @@ The objective of this project is to **predict an employee’s salary** given the
 
 ## 🎯 Project Objectives
 
+
 - Understand the relationship between experience and salary
+
 - Apply **Linear Regression** to a real dataset
+
 - Visualize trends and model performance
+
 - Evaluate the model using standard regression metrics
+
 - Build a reusable prediction system
 
 
