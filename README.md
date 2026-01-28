@@ -2,10 +2,12 @@
 
 This project implements a **Machine Learning model using Linear Regression** to predict employee salaries based on their years of experience. It demonstrates the complete ML workflow — from data preprocessing and visualization to model training, evaluation, and prediction.
 
+
 ## 📌 Problem Statement
 
 Salary prediction is a common real-world regression problem in Human Resource analytics.  
 The objective of this project is to **predict an employee’s salary** given their **years of experience**, using a supervised learning approach.
+
 
 ## 🎯 Project Objectives
 
@@ -15,17 +17,25 @@ The objective of this project is to **predict an employee’s salary** given the
 - Evaluate the model using standard regression metrics
 - Build a reusable prediction system
 
+
 ## 🧠 Machine Learning Approach
 
-- **Type:** Supervised Learning  
+- **Type:** Supervised Learning
+   
 - **Algorithm:** Linear Regression  
+
 - **Target Variable:** Salary  
+
 - **Input Feature:** Years of Experience
 
   Linear Regression was chosen because:
+
 - The relationship between experience and salary is linear
+
 - It is simple, interpretable, and effective for beginners
+
 - It provides strong baseline performance for regression problems
+
 
  ## 🗂️ Project Structure
 
