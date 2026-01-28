@@ -45,12 +45,19 @@ The objective of this project is to **predict an employee’s salary** given the
  ## 🗂️ Project Structure
 
 Employee_Salary_Prediction-linear-regression-
+
 │
+
 ├── Employee-salary-prediction.csv # Dataset
+
 ├── employee_salary.ipynb # Jupyter Notebook (EDA + Model)
+
 ├── salary_predictor.py # Python script for prediction
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Project dependencies
+
 
 ## 📊 Dataset Description
 
@@ -61,10 +68,15 @@ The dataset contains employee salary information with the following columns:
 | YearsExperience   | Number of years of work experience   |
 | Salary            | Annual salary (target variable)      |
 
+
 ### Dataset Characteristics:
+
 - Small and clean dataset
+
 - No missing values
+
 - Ideal for regression analysis
+
 - Suitable for visualization and interpretation
 
 ## 🔍 Exploratory Data Analysis (EDA)
@@ -77,6 +89,7 @@ During EDA, the following steps were performed:
 - Observed a strong positive linear relationship
 
 📈 **Insight:**  
+
 As years of experience increase, salary increases linearly — making Linear Regression a suitable model.
 
 ## 🛠️ Technologies & Tools Used
