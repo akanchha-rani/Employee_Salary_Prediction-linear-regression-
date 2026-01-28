@@ -88,11 +88,23 @@ As years of experience increase, salary increases linearly — making Linear Reg
    - Dependent variable: Salary
 
 3. **Train-Test Split**
+
    - 80% training data
+
    - 20% testing data
 
-4. **Model Training**
+5. **Model Training**
+
    - Used `LinearRegression()` from scikit-learn
 
+7. **Prediction**
+
+   - Predicted salaries on test data
+
+9. **Evaluation**
+
+   - Compared predicted vs actual values
+
+   - Visualized regression line
   
 <img width="1440" height="811" alt="Screenshot 2025-07-23 at 6 07 51 PM" src="https://github.com/user-attachments/assets/02cb451a-d781-43b5-be2f-8936dca2c882" />
