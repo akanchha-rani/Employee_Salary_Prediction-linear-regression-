@@ -21,5 +21,10 @@ The objective of this project is to **predict an employee’s salary** given the
 - **Algorithm:** Linear Regression  
 - **Target Variable:** Salary  
 - **Input Feature:** Years of Experience
-  
+
+  Linear Regression was chosen because:
+- The relationship between experience and salary is linear
+- It is simple, interpretable, and effective for beginners
+- It provides strong baseline performance for regression problems
+- 
 <img width="1440" height="811" alt="Screenshot 2025-07-23 at 6 07 51 PM" src="https://github.com/user-attachments/assets/02cb451a-d781-43b5-be2f-8936dca2c882" />
